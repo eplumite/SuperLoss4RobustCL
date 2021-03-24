@@ -28,6 +28,18 @@ This project is based on ideas from [paper](https://proceedings.neurips.cc/paper
 
 - unet.py - Unet architecture 
 
+# Obtained results
+
+## Performance metrics results by noise proportion
+
+### MiDaS
+
+![MiDaS](/img/midas_noise_prop.png)
+
+### U-Net
+
+![U-Net](/img/unet_noise_proportion.png)
+
 # Authors 
 
 - Albina Klepach
