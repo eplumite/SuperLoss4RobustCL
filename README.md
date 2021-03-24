@@ -40,7 +40,7 @@ Folder midas is imported from [here](https://github.com/intel-isl/MiDaS).
 
 ### U-Net
 
-![U-Net](/img/unet_noise_proportion.png)
+![U-Net](/img/u-net.png)
 
 # Authors 
 
