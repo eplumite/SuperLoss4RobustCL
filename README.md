@@ -28,6 +28,8 @@ This project is based on ideas from [paper](https://proceedings.neurips.cc/paper
 
 - unet.py - Unet architecture 
 
+Folder midas is imported from [here](https://github.com/intel-isl/MiDaS).
+
 # Obtained results
 
 ## Performance metrics results by noise proportion
